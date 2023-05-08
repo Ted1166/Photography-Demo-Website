@@ -1,0 +1,22 @@
+{
+  "name": "photography-demo-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ted1166/Photography-Demo-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ted1166/Photography-Demo-Website/issues"
+  },
+  "homepage": "https://github.com/Ted1166/Photography-Demo-Website#readme",
+  "dependencies": {
+    "firebase": "^9.21.0"
+  }
+}
