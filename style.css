@@ -308,7 +308,7 @@ section{
     transform: translateX(-50%);
    }
    section .title::after{
-    content: "featured";
+    content: "#";
     position: absolute;
     background: #333;
     bottom: -12px;
@@ -339,7 +339,7 @@ section{
    }
 
 
-   /*Graduation section styling*/
+   /*Club section styling*/
 
    section .max-width .card{
     width: 100%;
@@ -350,8 +350,8 @@ section{
    }
 
    section .max-width .card img{
-    width: 450px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     margin: 10px;
     border-radius: 10px;
@@ -476,4 +476,5 @@ section{
         content: "\f00d" ;
     }
  }
+ 
 
